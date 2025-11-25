@@ -316,6 +316,7 @@ st.markdown(
     <div style="margin-bottom: 80px;"></div>
     <footer class="footer">
       <p>Happy Mom, Happy Life | 星際媽媽能量避雷指南</p>
+      <a href="https://www.facebook.com/soulclean1413/" target="_blank">👉 加入粉專</a>
     </footer>
     """,
     unsafe_allow_html=True
